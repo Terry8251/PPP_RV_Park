@@ -1,0 +1,12 @@
+{
+  "homePage": {
+    "navBar": {
+      "about": "About",
+      "policies": "Policies",
+      "local": "Local",
+      "food": "Food",
+      "contact": "Contact"
+    },
+    "mainTitle": "Peculiar Park Place"
+  }
+}
